@@ -1,0 +1,4 @@
+﻿git add 添加文件文件夹 可以多个
+git commit -m 添加版本信息 
+git status 查看仓库当前状态
+git diff [文件名]  查看修改信息
