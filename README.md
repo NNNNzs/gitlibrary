@@ -21,4 +21,3 @@ git merge <name> 合并某分支到当前分支
 git branch -d <name>删除分支
 git log --graph 命令可以看到分支合并图
 ```
-
