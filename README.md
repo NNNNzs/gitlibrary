@@ -21,3 +21,5 @@ git merge <name> 合并某分支到当前分支
 git branch -d <name>删除分支
 git log --graph 命令可以看到分支合并图
 ```
+## 创建了一个分支feature-README
+- 作用：用于编写README中的操作细节，和介绍功能的文档；
