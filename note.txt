@@ -19,3 +19,4 @@ git branch -d <name>删除分支
 git log --graph 命令可以看到分支合并图
 
 在公司的第一次更新
+好像有点意思
